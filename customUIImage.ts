@@ -1,4 +1,4 @@
-// By @nicktea please do share without my approval, not for resale.
+// By @nicktea free for the community.
 import * as hz from 'horizon/core';
 import * as ui from 'horizon/ui';
 
