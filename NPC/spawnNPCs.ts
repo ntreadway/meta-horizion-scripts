@@ -83,6 +83,15 @@ class spawnNPCs extends hz.Component<typeof spawnNPCs> {
     }, 4000);
   }
 
+/* Mocking the players in world here.
+  In a real world scenario, 
+  this would be a call to get the list of players 
+  that are in the world. 
+  
+  World.getPlayers();
+  
+*/
+
   getPlayers() {
     return [
       new hz.Player(1),
